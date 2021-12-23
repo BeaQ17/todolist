@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Tajawal', sans-serif;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.top{
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    background-image: url(./imgs/Time.jpg);
+    background: center fixed no-repeat;
+    
+}
+
+#date{
+    color: wheat;
+}
+
+#todotitle{
+    color: rgb(255, 94, 0);
+
+}
