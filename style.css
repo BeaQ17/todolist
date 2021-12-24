@@ -1,33 +1,88 @@
+/* GENERAL */
 *{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
-body{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ********************************************************* */
+
+/* body, html{
     font-family: 'Tajawal', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
 }
 
 .container{
     display: flex;
+    flex-direction: column;
     align-items: center;
-    justify-content: center;
+    background-image: url("./imgs/Journey.jpg");
+    background: no-repeat fixed center contain;
+    height: 100%;
+    width: 100%;
 }
 
 .top{
     display: flex;
-    align-items: baseline;
+    align-items: flex-end;
     justify-content: center;
-    background-image: url(./imgs/Time.jpg);
-    background: center fixed no-repeat;
-    
+    height: 30%;
+    width: 100%;
+    margin-bottom: 20px;
 }
 
 #date{
-    color: wheat;
+    color: blue;
+}
+
+
+
+.content{
+    background-color: rgba(255, 255, 255, 0.315);
+
+}
+
+
+
+.list{
+    width: 100%;
+    height: 50%;
 }
 
 #todotitle{
     color: rgb(255, 94, 0);
 
 }
+
+.add{
+    width: 100%;
+    height: 20%;
+} */
